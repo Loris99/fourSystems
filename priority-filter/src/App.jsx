@@ -139,6 +139,7 @@ const COUNTRY_TO_REGION = {
   "burkina faso": "Africa",
   mali: "Africa",
   mauritania: "Africa",
+  mauritius:"Africa",
   niger: "Africa",
   togo: "Africa",
   egypt: MENA,
@@ -186,6 +187,7 @@ const COUNTRY_TO_REGION = {
   palau: "Asia Pacific",
   nauru: "Asia Pacific",
   australia: "Asia Pacific",
+  kyrgyzstan: "Asia Pacific",
   "new zealand": "Asia Pacific",
 
   // SOUTH AMERICA
